@@ -1,3 +1,3 @@
 # hello-world
 test repository
-hi all
+hi humans
